@@ -1,0 +1,7 @@
+{
+  "name": "matterGame",
+  "version": "1.0.0",
+  "dependencies": {
+    "eslint": "7.20.0"
+  }
+}
